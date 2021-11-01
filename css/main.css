@@ -1,0 +1,118 @@
+body{
+/*width: 100%;
+margin: 0p;
+padding: 0;*/
+}
+
+a{
+/*margin-left: 100px*/
+font-family:Kurale;
+text-decoration:none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #fff;
+}
+
+header{
+height: 100px;
+width: 100%;
+background-color: #DB4C3F;
+/*padding: 20px 0px;*/
+}
+header a {
+margin-right: 100px;
+color: #fff;
+}
+
+.btn{
+background: #c04237;
+border-radius: 30px;
+padding: 10px;
+}
+
+.btn:hover{
+background: #fff;
+color: #c04237;
+transition: all 0.9s ease 0s;
+-moz-transition: all 0.9s ease 0s;
+-webkit-transition: all 0.9s ease 0s;
+-o-transition: all 0.9s ease 0s;
+}
+
+header nav{
+	padding: 30px;
+}
+
+.logo_text{
+	color: ffffff;
+	font-family: Playball;
+	font-size: 64px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+
+header nav a{
+	font-family: Kurale;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1;
+}
+
+.login{
+	padding: 25px;
+}
+
+header .login a{
+	font-family: Kurale;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1;
+	margin-right: 50px;
+}
+
+.main {
+font-family: Kurale;
+font-size: 36px;
+padding: 0px 230px;
+padding-top: 40px;
+}
+
+
+.main h1{
+	font-size: 48px;
+}
+
+.main li {
+	list-style-type: none;
+	padding: 10px 0px;
+}
+.main .tel{
+	width: 30%;
+	float: left;
+}
+.main .about{
+	width: 70%;
+	float: left; 
+}
+.main img{
+	width: 100%;
+	margin-top: 70px;
+}
+
+.main .btn{
+		font-size: 36px;
+		background-color: #DB4C3F;
+		color: #fff;
+		padding: 5px 100px;
+		border-radius: 30px;
+		margin-left: 28%;
+		margin-top: 100px;
+}

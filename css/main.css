@@ -111,7 +111,7 @@ nav .login a {
 
 .main img {
     width: 100%;
-    margin-top: 70px;
+    padding-top: 100px;
     display: none;
 }
 
@@ -121,7 +121,6 @@ nav .login a {
     color: #fff;
     padding: 5px 100px;
     border-radius: 30px;
-    margin-left: 28%;
     margin-top: 100px;
 }
 

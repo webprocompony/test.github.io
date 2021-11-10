@@ -239,13 +239,23 @@ header button svg{
     .line{
         display: none;
     }
+
+}
+@media (max-width: 768px) {
+    footer .row .col-md-4{
+        padding-top: 50px;
+    }
+    .line_f{
+        margin: 10px 5%;
+        width: 90%;
+    }
     .footer-botom{
         display: flex;
         flex-direction: column;
         text-align: center;
     }
-}
 
+}
 @media (max-width: 992px) {
     .header{
         flex-direction:column ;

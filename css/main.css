@@ -239,7 +239,13 @@ header button svg{
     .line{
         display: none;
     }
-
+    .head_contant{
+        height: auto;
+    }
+    .btn-box{
+        padding: 10px;
+        justify-content: center;
+    }
 }
 @media (max-width: 768px) {
     footer .row .col-md-4{
